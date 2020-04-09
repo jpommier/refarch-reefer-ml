@@ -22,8 +22,8 @@
 ## Cloud Pak for Automation
 
 * [Garage solution engineering - Denim compute](https://ibm-cloud-architecture.github.io/denim-compute/)
-* [Digital Business Automation Architecture Center - streamlines business operations](https://www.ibm.com/cloud/garage/architectures/dba)
-* [DBA - Garage team's cookbook](https://cloudpak8s.io/automation/introduction/)
+* [Digital Business Automation Architecture Center - streamlines business operations](https://www.ibm.com/cloud/architecture/architectures/dba-architecture)
+* [DBA - Garage installation playbook](https://cloudpak8s.io/automation/introduction/)
 
 ## Openshift
 
